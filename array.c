@@ -23,6 +23,6 @@ void Shell(int *array, int n) {
 }
 int main() {
 
-  Shell(vector,allahuakbar);
+  Shell(array,N);
   return 0;
 }
